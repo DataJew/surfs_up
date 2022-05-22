@@ -77,6 +77,6 @@ For this part of the Challenge, write a report that describes the key difference
 
 3. **Summary:** 
 
-    We can observe the standard deviation is 3.25 in June and 3.75 in December, a 0.489 difference between both seasons.
+    We can observe the standard deviation is 3.26 in June and 3.75 in December, a 0.489 difference between both seasons.
  
     In addition, current data provides attributes such precipitation and others, with two queries performing weather data for June and December that helps valudate business decisions such as location and materials.
