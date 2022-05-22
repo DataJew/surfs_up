@@ -42,7 +42,6 @@ For this part of the Challenge, write a report that describes the key difference
 ### The analysis should contain the following:
 
 1. **Overview of the analysis:** Using Python, Pandas functions and methods, and SQLAlchemy, we’ll filter the date column of the Measurements table in the `hawaii.sqlite` database to retrieve all the temperatures for the month of June. We'll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics. Once our dataframe is created we are able to get our summary statistics by using the `df.describe()` code and method. 
-> Below our Analysis that what we found:
 
 2. **Results:** Data Provided gave us a visibility that on months of June and December, our location had a total Temps of:
 
