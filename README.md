@@ -58,6 +58,7 @@ For this part of the Challenge, write a report that describes the key difference
 
 **June Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
+![name-of-you-image](https://github.com/DataJew/surfs_up/blob/main/Resources/images/June_df_describe.png)
 
 **December Temps - Analysis and Result**
 * Count of 1517 
@@ -72,7 +73,7 @@ For this part of the Challenge, write a report that describes the key difference
 
 **December Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
-
+![name-of-you-image](https://github.com/DataJew/surfs_up/blob/main/Resources/images/June_df_describe.png)
 
 3. **Summary:** 
 
